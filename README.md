@@ -1,16 +1,23 @@
-### Hi there 👋
+<img src="https://github.com/reglabel/reglabel/blob/main/images/reglabel.png"></h2>
+# Olá! Tudo bem? :blush: <img src="https://github.com/reglabel/reglabel/blob/main/images/Hi.gif" width="30px"></h2> 
+Meu nome é Regla Bel, sou uma estudante de Engenharia de Software. :computer: :heart:
 
-<!--
-**reglabel/reglabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Por meio de projetos pessoais diversos, almejo aprimorar minhas capacidades, explorar minhas afinidades e contribuir para a comunidade, compartilhando meu progresso. :thumbsup:
 
-Here are some ideas to get you started:
+Amo livros :books:, cinema :clapper: e jogos :video_game:!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+:mag: Metas: Java, Python, HTML5, CSS3, JavaScript
+
+**"É fazendo que se aprende a fazer aquilo que se deve aprender a fazer" :bulb:**
+
+#
+
+<center>
+<table>
+    <tr>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=reglabel&theme=dracula"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reglabel&hide=html&layout=compact&theme=dracula" /></td>
+    </tr>   
+</table>
+</center>  
