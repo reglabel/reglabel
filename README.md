@@ -22,9 +22,11 @@ Amo livros :books:, cinema :clapper: e jogos :video_game:!
 
 **"É fazendo que se aprende a fazer aquilo que se deve aprender a fazer" :bulb:** 
 
-#
-
 ![](https://komarev.com/ghpvc/?username=reglabel&color=ff69b4&style=flat-square)
 
+
+#
+
+Credits to [Github-readme-stats](https://github.com/murilothink/github-readme-stats) and [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)!
 
 
