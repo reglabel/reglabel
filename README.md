@@ -3,8 +3,8 @@
 <center>
 <table>
     <tr>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=reglabel&theme=dracula"/></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reglabel&hide=html&layout=compact&theme=dracula" /></td>
+        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=reglabel&theme=radical&count_private=true&&hide=prs,issues,contribs&show_icons=true"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reglabel&hide=html&layout=compact&theme=radical" /></td>
     </tr>   
 </table>
 </center>
@@ -24,7 +24,7 @@ Amo livros :books:, cinema :clapper: e jogos :video_game:!
 
 #
 
-![](https://komarev.com/ghpvc/?username=reglabel&color=ff69b4&style=flat)
+![](https://komarev.com/ghpvc/?username=reglabel&color=ff69b4&style=flat-square)
 
 
 
