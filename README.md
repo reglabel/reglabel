@@ -1,4 +1,4 @@
-<img src="https://github.com/reglabel/reglabel/blob/main/images/reglabel.png"></h2>
+<img src="https://github.com/reglabel/reglabel/blob/main/images/reglabel.gif"></h2>
 
 <center>
 <table>
