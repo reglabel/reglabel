@@ -1,10 +1,10 @@
-<img src="https://github.com/reglabel/reglabel/blob/main/images/reglabel.gif"></h2>
+<img src="https://github.com/reglabel/reglabel/blob/main/images/2.gif"></h2>
 
 <center>
 <table>
     <tr>
-        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=reglabel&count_private=true&hide=prs,issues,contribs&show_icons=true&title_color=ffffff&icon_color=fee140&text_color=ffffff&bg_color=580b79,b86675,e0b123"/></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reglabel&layout=compact&title_color=ffffff&icon_color=fee140&text_color=ffffff&bg_color=e0b123,b86675,580b79" /></td>
+        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=reglabel&count_private=true&hide=prs,issues,contribs&show_icons=true&title_color=580b79&icon_color=b86675&text_color=e0b123&bg_color=ffffff"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reglabel&layout=compact&title_color=b86675&icon_color=e0b123&text_color=580b79&bg_color=ffffff" /></td>
     </tr>   
 </table>
 </center>
@@ -25,9 +25,7 @@ Por meio de projetos pessoais diversos, almejo aprimorar minhas capacidades, exp
 #
 
 > _"É fazendo que se aprende a fazer aquilo que se deve aprender a fazer." :bulb:_
-
-![](https://komarev.com/ghpvc/?username=reglabel&color=e6a267&style=flat-square&label=VISITANTES)
-
+<!---![](https://komarev.com/ghpvc/?username=reglabel&color=e6a267&style=flat-square&label=VISITANTES)--->
 #
 
 Credits to [Github-readme-stats](https://github.com/murilothink/github-readme-stats), [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter) and [Badges Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile#-skills-)!
