@@ -1,14 +1,5 @@
 <img src="https://github.com/reglabel/reglabel/blob/main/images/2.gif"></h2>
 
-<center>
-<table>
-    <tr>
-        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=reglabel&count_private=true&hide=prs,issues,contribs&show_icons=true&title_color=580b79&icon_color=b86675&text_color=e0b123&bg_color=ffffff"/></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reglabel&layout=compact&title_color=b86675&icon_color=e0b123&text_color=580b79&bg_color=ffffff" /></td>
-    </tr>   
-</table>
-</center>
-
 # Olá! Tudo bem? <img src="https://github.com/reglabel/reglabel/blob/main/images/Hi.gif" width="30px"> :blush:</h2> 
 Sou uma estudante de Engenharia de Software. :computer: :heart:
 
@@ -23,6 +14,15 @@ Por meio de projetos pessoais diversos, almejo aprimorar minhas capacidades, exp
 :mag: ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 #
+
+<center>
+<table>
+    <tr>
+        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=reglabel&count_private=true&hide=prs,issues,contribs&show_icons=true&title_color=3d2375&icon_color=fffd3e&text_color=ffffff&bg_color=a890fe"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reglabel&layout=compact&title_color=3d2375&icon_color=fffd3e&text_color=ffffff&bg_color=a890fe" /></td>
+    </tr>   
+</table>
+</center>
 
 > _"É fazendo que se aprende a fazer aquilo que se deve aprender a fazer." :bulb:_
 <!---![](https://komarev.com/ghpvc/?username=reglabel&color=e6a267&style=flat-square&label=VISITANTES)--->
