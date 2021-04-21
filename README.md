@@ -18,8 +18,8 @@ Por meio de projetos pessoais diversos, almejo aprimorar minhas capacidades, exp
 <center>
 <table>
     <tr>
-        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=reglabel&count_private=true&hide=prs,issues,contribs&show_icons=true&title_color=3d2375&icon_color=fffd3e&text_color=ffffff&bg_color=a890fe"/></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reglabel&layout=compact&title_color=3d2375&icon_color=fffd3e&text_color=ffffff&bg_color=a890fe" /></td>
+        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=reglabel&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=buefy"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reglabel&layout=compact&theme=buefy" /></td>
     </tr>   
 </table>
 </center>
