@@ -1,5 +1,14 @@
 <img src="https://github.com/reglabel/reglabel/blob/main/images/2.gif"></h2>
 
+<center>
+<table>
+    <tr>
+        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=reglabel&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=omni"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reglabel&layout=compact&theme=omni" /></td>
+    </tr>   
+</table>
+</center>
+
 # Olá! Tudo bem? <img src="https://github.com/reglabel/reglabel/blob/main/images/Hi.gif" width="30px"> :blush:</h2> 
 Sou uma estudante de Engenharia de Software. :computer: :heart:
 
@@ -15,14 +24,6 @@ Por meio de projetos pessoais diversos, almejo aprimorar minhas capacidades, exp
 
 #
 
-<center>
-<table>
-    <tr>
-        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=reglabel&count_private=true&hide=prs,issues,contribs&show_icons=true&theme=omni"/></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reglabel&layout=compact&theme=omni" /></td>
-    </tr>   
-</table>
-</center>
 
 > _"É fazendo que se aprende a fazer aquilo que se deve aprender a fazer." :bulb:_
 <!---![](https://komarev.com/ghpvc/?username=reglabel&color=e6a267&style=flat-square&label=VISITANTES)--->
