@@ -9,7 +9,7 @@
 </table>
 </center>
 
-# Olá! Tudo bem? <img src="https://github.com/reglabel/reglabel/blob/main/images/Hi.gif" width="30px"> :blush:</h2> 
+# Oi! Tudo bem? <img src="https://github.com/reglabel/reglabel/blob/main/images/Hi.gif" width="30px"> :blush:</h2> 
 Sou uma estudante de Engenharia de Software. :computer: :heart:
 
 Por meio de projetos pessoais diversos, almejo aprimorar minhas capacidades, explorar minhas afinidades e contribuir para a comunidade, compartilhando meu progresso. :thumbsup:
