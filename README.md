@@ -19,15 +19,11 @@ Por meio de projetos pessoais diversos, almejo aprimorar minhas capacidades, exp
 
 #
 
-<center>
-    <table> 
-        <tr>
-            <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=reglabel&count_private=true&hide=issues&show_icons=true&theme=nightowl"/></td>
-            <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reglabel&layout=compact&theme=nightowl"/></td>
-        </tr>
-   </table>
-</center>
- 
+<div align="center">
+    <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=reglabel&count_private=true&hide=issues&show_icons=true&theme=nightowl"/>
+    <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reglabel&layout=compact&theme=nightowl"/>
+</div>
+
 #
 
 Credits to [Github-readme-stats](https://github.com/murilothink/github-readme-stats), [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter), [GitHub Readme Streak Stats](https://github.com/denvercoder1/github-readme-streak-stats) and [Badges Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile#-skills-)!
