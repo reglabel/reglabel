@@ -20,8 +20,7 @@ Por meio de projetos pessoais diversos, almejo aprimorar minhas capacidades, exp
 #
 
 <div align="center">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=reglabel&count_private=true&hide=issues&show_icons=true&theme=nightowl"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reglabel&layout=compact&theme=nightowl"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reglabel&count_private=true&hide=issues&show_icons=true&theme=nightowl"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reglabel&layout=compact&theme=nightowl"/>
 </div>
 
 #
