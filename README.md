@@ -1,13 +1,4 @@
-<img src="https://github.com/reglabel/reglabel/blob/main/images/2.gif"></h2>
-
-<center>
-<table>
-    <tr>
-        <td><img width="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=reglabel&count_private=true&hide=issues&show_icons=true&theme=material-palenight"/></td>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reglabel&layout=compact&theme=material-palenight" /></td>
-    </tr>   
-</table>
-</center>
+<img src="https://github.com/reglabel/reglabel/blob/main/images/image 1.png" min-width="300px" max-width="500px" width="400px" align="right"></h2>
 
 # Olá! Tudo bem? <img src="https://github.com/reglabel/reglabel/blob/main/images/Hi.gif" width="30px"> :blush:</h2> 
 Sou uma estudante de Engenharia de Software. :computer: :heart:
@@ -16,10 +7,9 @@ Por meio de projetos pessoais diversos, almejo aprimorar minhas capacidades, exp
 
 **Amo livros :books:, cinema :clapper: e jogos :video_game:!**
 
-#
-
 > _"É fazendo que se aprende a fazer aquilo que se deve aprender a fazer." :bulb:_
 <!--![](https://komarev.com/ghpvc/?username=reglabel&color=e6a267&style=flat-square&label=VISITANTES)-->
+
 #
 
 ### :mag: :rocket: Metas:
@@ -27,6 +17,17 @@ Por meio de projetos pessoais diversos, almejo aprimorar minhas capacidades, exp
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=reglabel&theme=material-palenight&hide_border=false)](https://git.io/streak-stats)-->
 
+#
+
+<center>
+    <table> 
+        <tr>
+            <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=reglabel&count_private=true&hide=issues&show_icons=true&theme=nightowl"/></td>
+            <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reglabel&layout=compact&theme=nightowl"/></td>
+        </tr>
+   </table>
+</center>
+ 
 #
 
 Credits to [Github-readme-stats](https://github.com/murilothink/github-readme-stats), [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter), [GitHub Readme Streak Stats](https://github.com/denvercoder1/github-readme-streak-stats) and [Badges Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile#-skills-)!
