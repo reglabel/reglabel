@@ -1,6 +1,6 @@
 
 <div align="right">
-    <img src="https://github.com/reglabel/reglabel/blob/main/images/stats.gif" min-width="300px" max-width="500px" width="400px" align="right">
+    <img src="https://github.com/reglabel/reglabel/blob/main/images/stats.gif" min-width="200px" max-width="400px" width="300px" align="right">
 </div>
 
 <div align="left">
