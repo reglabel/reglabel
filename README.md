@@ -29,7 +29,7 @@
 #
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=reglabel&theme=algolia&column=-1&margin-w=15")](https://github.com/reglabel/github-profile-trophy"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=reglabel&theme=algolia&column=-1&margin-w=15&no-frame=true&no-bg=true")](https://github.com/reglabel/github-profile-trophy"/>
 </div>
 
 #
