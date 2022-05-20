@@ -1,9 +1,4 @@
-
-<div align="right">
-    <img src="https://github.com/reglabel/reglabel/blob/main/images/stats.gif" min-width="200px" max-width="400px" width="300px" align="right">
-</div>
-
-<div align="left">
+<div>
     <h2>Olá! Tudo bem? <img src="https://github.com/reglabel/reglabel/blob/main/images/Hi.gif" width="30px"></h2> 
     <p>Sou uma estudante de Engenharia de Software. :computer: :heart:</p>
     <p>Por meio de projetos pessoais diversos, almejo aprimorar minhas capacidades, explorar minhas afinidades e contribuir para a comunidade, compartilhando meu progresso. :thumbsup:</p>
