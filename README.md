@@ -1,8 +1,7 @@
-<div>
-    <h2>Olá! Tudo bem? <img src="https://github.com/reglabel/reglabel/blob/main/images/Hi.gif" width="30px"></h2> 
-    <p>Sou uma estudante de Engenharia de Software. :computer: :heart:</p>
-    <p>Por meio de projetos pessoais diversos, almejo aprimorar minhas capacidades, explorar minhas afinidades e contribuir para a comunidade, compartilhando meu progresso. :thumbsup:</p>
-</div>
+# Olá! Tudo bem? <img src="https://github.com/reglabel/reglabel/blob/main/images/Hi.gif" height="30px"></h2> 
+Sou uma estudante de Engenharia de Software. :computer: :heart:
+
+Por meio de projetos pessoais diversos, almejo aprimorar minhas capacidades, explorar minhas afinidades e contribuir para a comunidade, compartilhando meu progresso. :thumbsup:
 
 #
 
