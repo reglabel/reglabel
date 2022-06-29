@@ -17,7 +17,7 @@ Por meio de projetos pessoais diversos, almejo aprimorar minhas capacidades, exp
 
 <div align="center">
     <img height="160em" max-width="100em" src="https://github-readme-stats.vercel.app/api?username=reglabel&count_private=true&hide=issues&show_icons=true&theme=algolia"/>
-    <img height="160em" max-width="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reglabel&layout=compact&theme=algolia"/>
+    <img height="160em" max-width="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reglabel&layout=compact&theme=algolia&hide=jupyter%20notebook"/>
 </div>
 
 #
