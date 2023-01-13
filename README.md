@@ -18,17 +18,4 @@ Por meio de projetos pessoais diversos, almejo aprimorar minhas capacidades, exp
 
 #
 
-<div align="center">
-    <img height="160em" max-width="100em" src="https://github-readme-stats.vercel.app/api?username=reglabel&count_private=true&show_icons=true&theme=algolia"/>
-    <img height="160em" max-width="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reglabel&layout=compact&theme=algolia&hide=jupyter%20notebook"/>
-</div>
-
-#
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=reglabel&theme=algolia&column=-1&margin-w=15&no-frame=true&no-bg=true&rank=-C")](https://github.com/reglabel/github-profile-trophy"/>
-</div>
-
-#
-
 Credits to [Github-readme-stats](https://github.com/murilothink/github-readme-stats), [Badges Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile#-skills-) and [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)!
