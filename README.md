@@ -18,4 +18,4 @@ Por meio de projetos pessoais diversos, almejo aprimorar minhas capacidades, exp
 
 #
 
-Credits to [Github-readme-stats](https://github.com/murilothink/github-readme-stats), [Badges Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile#-skills-) and [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)!
+<!--Credits to [Github-readme-stats](https://github.com/murilothink/github-readme-stats), [Badges Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile#-skills-) and [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)!-->
