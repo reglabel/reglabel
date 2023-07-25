@@ -3,16 +3,38 @@ Sou uma estudante de Engenharia de Software. :computer: :heart:
 
 Por meio de projetos pessoais diversos, almejo aprimorar minhas capacidades, explorar minhas afinidades e contribuir para a comunidade, compartilhando meu progresso. :thumbsup:
 
-#
+<img alt="rainy Night" height="550em" src="https://github.com/reglabel/reglabel/blob/main/images/decoration_rainy_night.gif" align="right"/>
 
-<!--![](https://komarev.com/ghpvc/?username=reglabel&color=e6a267&style=flat-square&label=VISITANTES)-->
-> _"É fazendo que se aprende a fazer aquilo que se deve aprender a fazer." :bulb:_
+### :rocket: &nbsp;Tecnologias
 
-#### :mag: Tecnologias:
-![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![image](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white) ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![image](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white) ![image](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
+![NextJS](https://img.shields.io/badge/next.js-05122A?style=flat&logo=nextdotjs&logoColor=white)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-05122A?style=flat&logo=tailwind-css&logoColor=white)&nbsp;
+![Chakra-UI](https://img.shields.io/badge/Chakra--UI-05122A?style=flat&logo=chakra-ui&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma&logoColor=white)&nbsp;
 
-#### :rocket: Metas:
-![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![image](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2305122A.svg?&style=flat&logo=Canva&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript&logoColor=white)&nbsp;
+![GitKraken](https://img.shields.io/badge/GitKraken-05122A?style=flat&logo=GitKraken&logoColor=white)&nbsp;
+
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=white)&nbsp;
+
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular&logoColor=white)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android_Studio-05122A?style=flat&logo=android-studio&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-05122A?&style=flat&logo=kotlin&logoColor=white)&nbsp;
+
+
+<p align="left">
+  <img width="400em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=reglabel&layout=compact&langs_count=8&theme=prussian&hide=jupyter%20notebook" />
+</p>
+
+<p align="left">
+  <img width="400em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reglabel&show_icons=true&theme=prussian&include_all_commits=true&count_private=true&hide=issues,contribs" />
+</p>
 
 #
 
@@ -20,25 +42,15 @@ Por meio de projetos pessoais diversos, almejo aprimorar minhas capacidades, exp
 <summary><strong>Contatos<strong/></summary>
 <br>
  
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:regla.belcl@gmail.com?Subject=Contato%20por%20GithHub) [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/reglabel) [![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.rbcl.dev/)
-    
+[![E-mail](https://img.shields.io/badge/Gmail-05122A?style=flat&logo=gmail&logoColor=white)](mailto:regla.belcl@gmail.com?Subject=Contato%20por%20GithHub)&nbsp;
+[![Linkedin](https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/reglabel)&nbsp;
+[![Website](https://img.shields.io/badge/website-05122A?style=flat&logo=About.me&logoColor=white)](https://www.rbcl.dev/)&nbsp;
 
 </details>
 
-
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=reglabel&theme=material-palenight&hide_border=false)](https://git.io/streak-stats)-->
-
-<!--<div align="center">
-    <img height="160em" max-width="100em" src="https://github-readme-stats.vercel.app/api?username=reglabel&count_private=true&show_icons=true&theme=algolia"/>
-    <img height="160em" max-width="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reglabel&layout=compact&theme=algolia&hide=jupyter%20notebook"/>
-</div>
-
 #
 
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=reglabel&theme=algolia&column=-1&margin-w=15&no-frame=true&no-bg=true&rank=-C")](https://github.com/reglabel/github-profile-trophy"/>
-</div>
+> _"É fazendo que se aprende a fazer aquilo que se deve aprender a fazer." :bulb:_
+#
 
-#-->
-
-<!--Credits to [Github-readme-stats](https://github.com/murilothink/github-readme-stats), [Badges Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile#-skills-) and [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)!-->
+###### Créditos para: [Github-readme-stats](https://github.com/murilothink/github-readme-stats), [Badges Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile#-skills-), [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy), [Imagem Decorativa](https://imgur.com/am0eYJO)
