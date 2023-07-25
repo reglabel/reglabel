@@ -3,7 +3,9 @@ Sou uma estudante de Engenharia de Software. :computer: :heart:
 
 Por meio de projetos pessoais diversos, almejo aprimorar minhas capacidades, explorar minhas afinidades e contribuir para a comunidade, compartilhando meu progresso. :thumbsup:
 
+
 <img alt="rainy Night" height="550em" src="https://github.com/reglabel/reglabel/blob/main/images/decoration_rainy_night.gif" align="right"/>
+
 
 ### :rocket: &nbsp;Tecnologias
 
