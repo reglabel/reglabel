@@ -6,7 +6,6 @@ Por meio de projetos pessoais diversos, almejo aprimorar minhas capacidades, exp
 
 <img alt="rainy Night" height="550em" src="https://github.com/reglabel/reglabel/blob/main/images/decoration_rainy_night.gif" align="right"/>
 
-#
 
 ### :rocket: &nbsp;Tecnologias
 
